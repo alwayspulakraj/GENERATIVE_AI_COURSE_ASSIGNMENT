@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPjkB2KlxgLYB+TJaNHnyFn",
+      "authorship_tag": "ABX9TyOxFD47h6CDACPnWXjx7K6T",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,7 +23,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/alwayspulakraj/DATA-STRUCTURES-IN-PY/blob/ASSIGNMENT-1-PW-SKILLS/Untitled0.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/alwayspulakraj/DATA-STRUCTURES-IN-PY/blob/ASSIGNMENT-1-PW-SKILLS/ASSIGNMENT\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -702,6 +702,15 @@
       "outputs": []
     },
     {
+      "cell_type": "markdown",
+      "source": [
+        "# New Section"
+      ],
+      "metadata": {
+        "id": "pNagEq8cPr8o"
+      }
+    },
+    {
       "cell_type": "code",
       "source": [
         "#34.write a code that takes dictionary as input and returns a sorted version on it based on the values . you can choose whether to sort in ascending or descending.\n",
@@ -716,10 +725,25 @@
         "sort(d)"
       ],
       "metadata": {
-        "id": "SWy8mM3-9h-u"
+        "id": "SWy8mM3-9h-u",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "cdd17fdd-07c0-411b-f128-0e38a9970d01"
       },
       "execution_count": null,
-      "outputs": []
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "{'b': 1, 'c': 2, 'a': 3}"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 17
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -739,10 +763,25 @@
         "#this all the codes that are provided to me as a assignment,THANK YOU....."
       ],
       "metadata": {
-        "id": "9WKI-g-ck1Jb"
+        "id": "9WKI-g-ck1Jb",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "62526e83-0da9-4136-94ac-9ed08ddea565"
       },
       "execution_count": null,
-      "outputs": []
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "{1: ['PULAKRAJ'], 2: ['ROHAN', 'SUBRAT'], 3: ['ODISHA']}"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 18
+        }
+      ]
     }
   ]
 }
